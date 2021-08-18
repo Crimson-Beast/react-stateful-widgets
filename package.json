@@ -13,7 +13,7 @@
     "eslint-plugin-cypress": "^2.11.3",
     "eslint-plugin-react": "^7.24.0",
     "less": "^4.1.1",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
